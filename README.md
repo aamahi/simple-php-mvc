@@ -1,5 +1,5 @@
 # simple-php-mvc
-Simple php mvc framework to demonstrate how a mvc framework operates. Part of this training material: https://training.devskill.com/Course/ViewDetails/71e1d79f-cdd6-c2c4-ce49-08d83af21c65
+Simple php mvc framework to demonstrate how a mvc framework operates.
 
 # Dependencies
 PHP should be set up in your local with PATH variable.
